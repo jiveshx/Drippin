@@ -5,7 +5,7 @@ body{
     padding-right: 20px;
     overflow-y: scroll;
     overflow-x: hidden;
-    background-image: url(./asset/bg.png);
+    background-image: url(./bg.png);
     background-repeat: repeat;
     background-position: fixed;
 }
@@ -98,7 +98,7 @@ body{
 .hero-container{
     height: 450px;
     background: #698F62;
-    background-image: url(./asset/shop_hero.png);
+    background-image: url(./shop_hero.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
@@ -178,7 +178,7 @@ body{
 
 .category-img01{
     background: #7A81A2;
-    background-image: url(./asset/categoryimg01.png);
+    background-image: url(./categoryimg01.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
@@ -193,7 +193,7 @@ body{
 }
 .category-img02{
     background: #EA4B56;
-    background-image: url(./asset/categoryimg02.png);
+    background-image: url(./categoryimg02.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
@@ -208,7 +208,7 @@ body{
 }
 .category-img03{
     background: #58829B;
-    background-image: url(./asset/categoryimg03.png);
+    background-image: url(./categoryimg03.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
@@ -223,7 +223,7 @@ body{
 }
 .category-img04{
     background: #3B4056;
-    background-image: url(./asset/categoryimg04.png);
+    background-image: url(./categoryimg04.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
@@ -238,7 +238,7 @@ body{
 }
 .category-img05{
     background: #477E43;
-    background-image: url(./asset/categoryimg05.png);
+    background-image: url(./categoryimg05.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
@@ -253,7 +253,7 @@ body{
 }
 .category-img06{
     background: #5C5C6A;
-    background-image: url(./asset/categoryimg06.png);
+    background-image: url(./categoryimg06.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
@@ -400,7 +400,7 @@ body{
 }
 .img-container01{
     background: #58829B;
-    background-image: url("./asset/cardimg01.png");
+    background-image: url("./cardimg01.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -409,7 +409,7 @@ body{
 }
 .img-container02{
     background: #858681;
-    background-image: url("./asset/cardimg02.png");
+    background-image: url("./cardimg02.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -418,7 +418,7 @@ body{
 }
 .img-container03{
     background: #293B5F;
-    background-image: url("./asset/cardimg03.png");
+    background-image: url("./cardimg03.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -427,7 +427,7 @@ body{
 }
 .img-container04{
     background: #B33941;
-    background-image: url("./asset/cardimg04.png");
+    background-image: url("./cardimg04.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -436,7 +436,7 @@ body{
 }
 .img-container05{
     background: #844F46;
-    background-image: url("./asset/cardimg05.png");
+    background-image: url("./cardimg05.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -445,7 +445,7 @@ body{
 }
 .img-container06{
     background: #3B4056;
-    background-image: url("./asset/cardimg06.png");
+    background-image: url("./cardimg06.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -454,7 +454,7 @@ body{
 }
 .img-container07{
     background: #8D8D8D;
-    background-image: url("./asset/cardimg07.png");
+    background-image: url("./cardimg07.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -463,7 +463,7 @@ body{
 }
 .img-container08{
     background: #B4B8AD;
-    background-image: url("./asset/cardimg08.png");
+    background-image: url("./cardimg08.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -507,7 +507,7 @@ body{
 }
 .middle-img-container{
     background: #CECECE;
-    background-image: url(./asset/middle_section_img.png);
+    background-image: url(./middle_section_img.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: width 488px, height 609px;
