@@ -5,7 +5,7 @@ body{
     padding-right: 20px;
     overflow-y: scroll;
     overflow-x: hidden;
-    background-image: url(./asset/bg.png);
+    background-image: url(./bg.png);
     background-repeat: repeat;
     background-position: fixed;
 }
@@ -102,7 +102,7 @@ body{
 }
 .product-img-container{
     background: #58829B;
-    background-image: url(./asset/product01.png);
+    background-image: url(./product01.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     width: 600px;
@@ -527,7 +527,7 @@ body{
 }
 .img-container05{
     background: #844F46;
-    background-image: url("./asset/cardimg05.png");
+    background-image: url("./cardimg05.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -536,7 +536,7 @@ body{
 }
 .img-container06{
     background: #3B4056;
-    background-image: url("./asset/cardimg06.png");
+    background-image: url("./cardimg06.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -545,7 +545,7 @@ body{
 }
 .img-container07{
     background: #8D8D8D;
-    background-image: url("./asset/cardimg07.png");
+    background-image: url("./cardimg07.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -554,7 +554,7 @@ body{
 }
 .img-container08{
     background: #B4B8AD;
-    background-image: url("./asset/cardimg08.png");
+    background-image: url("./cardimg08.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
