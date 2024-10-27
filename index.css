@@ -5,7 +5,7 @@ body{
     padding-right: 20px;
     overflow-y: scroll;
     overflow-x: hidden;
-    background-image: url(./asset/bg.png);
+    background-image: url(./bg.png);
     background-repeat: repeat;
     background-position: fixed;
 }
@@ -168,7 +168,7 @@ body{
 }
 .hero-card01{
     background: #5C5C6A;
-    background-image: url("./asset/card01.png");
+    background-image: url("./card01.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -186,7 +186,7 @@ body{
 }
 .hero-card02{
     background: #C49060;
-    background-image: url("./asset/card02.png");
+    background-image: url("./card02.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -208,7 +208,7 @@ body{
 }
 .rightside{
     background: #EA4B56;
-    background-image: url("./asset/card03.png");
+    background-image: url("./card03.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: width 607px, height 714px;
@@ -587,7 +587,7 @@ body{
 }
 .img-container01{
     background: #58829B;
-    background-image: url("./asset/cardimg01.png");
+    background-image: url("./cardimg01.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -596,7 +596,7 @@ body{
 }
 .img-container02{
     background: #858681;
-    background-image: url("./asset/cardimg02.png");
+    background-image: url("./cardimg02.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -605,7 +605,7 @@ body{
 }
 .img-container03{
     background: #293B5F;
-    background-image: url("./asset/cardimg03.png");
+    background-image: url("./cardimg03.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -614,7 +614,7 @@ body{
 }
 .img-container04{
     background: #B33941;
-    background-image: url("./asset/cardimg04.png");
+    background-image: url("./cardimg04.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -623,7 +623,7 @@ body{
 }
 .img-container05{
     background: #844F46;
-    background-image: url("./asset/cardimg05.png");
+    background-image: url("./cardimg05.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -632,7 +632,7 @@ body{
 }
 .img-container06{
     background: #3B4056;
-    background-image: url("./asset/cardimg06.png");
+    background-image: url("./cardimg06.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -641,7 +641,7 @@ body{
 }
 .img-container07{
     background: #8D8D8D;
-    background-image: url("./asset/cardimg07.png");
+    background-image: url("./cardimg07.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -650,7 +650,7 @@ body{
 }
 .img-container08{
     background: #B4B8AD;
-    background-image: url("./asset/cardimg08.png");
+    background-image: url("./cardimg08.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -694,7 +694,7 @@ body{
 }
 .middle-img-container{
     background: #CECECE;
-    background-image: url(./asset/middle_section_img.png);
+    background-image: url(./middle_section_img.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: width 488px, height 609px;
@@ -776,7 +776,7 @@ body{
     align-items: center;
     justify-content: center;
     background: #fff;
-    background-image: url(./asset/fabric_texture.png);
+    background-image: url(./fabric_texture.png);
     background-position: center bottom;
     background-repeat: repeat;
     /* background-size: width ; */
@@ -805,7 +805,7 @@ body{
     padding: 20px;
     padding-left: 40px;
     background: #fff;
-    background-image: url(./asset/fabric_texture.png);
+    background-image: url(./fabric_texture.png);
     background-position: center bottom;
     background-repeat: repeat;
     height: 180px;
